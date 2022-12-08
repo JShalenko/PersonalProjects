@@ -4,7 +4,7 @@
 # Date: 10-4-22
 # Project: Brute-force Sudoku solver
 #   Description: project takes in an unfinished and solvable sudoku, and brute forces the result to the operator
-#   Inspiration: I love sudoku, but I hate the 'evil' and 'extreme' variations put out there by sudoku.com; this is my way of flipping them the bird
+#   Inspiration: I love sudoku, but I hate the 'evil' and 'extreme' variations put out there by sudoku.com; this is my way of expressing and getting out my frustrations
 #   Sources used: None really beyond what I learned in entry-level computer science courses, with all the algorithms coming from me
 #
 ###########################################################################
